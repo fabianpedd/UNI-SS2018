@@ -1,5 +1,5 @@
 # UNI-SS2018
-Tests and Documents for SS2018 @TU-Berlin
+Tests and Documents for SS2018 at TU-Berlin
 
 ______________________
 #1 Structure: 
