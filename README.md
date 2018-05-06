@@ -2,7 +2,7 @@
 Tests and Documents for SS2018 at TU-Berlin
 _______________________
 #1 General:
-  - Bitte bei Fehler oder Ungenauigkeiten die zu Punktabzug führen könnten bescheid sagen.
+  - Bitte bei Fehler oder Ungenauigkeiten, die zu Punktabzug führen könnten, bescheid sagen.
   
 
 ______________________
@@ -19,16 +19,22 @@ UNI-SS2018/
         - file1
         - file2
         - test14
+        ...
     - blatt01/
       - per/
       - jonas/
         - test23
+        ...
+    ...
   - DigiSys/
     - doc
+    ...
   - ElNetz/ 
     - doc
+    ...
   - SPR/ 
     - doc
+    ...
 
   
 _______________________
