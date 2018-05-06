@@ -33,4 +33,4 @@ UNI-SS2018/
   
 _______________________
  #3 Closing Remarks:  
-Das ist öffentlich. Bitte keine privaten Fotos hochladen.
+  - Das ist öffentlich. Bitte keine privaten Fotos hochladen.
