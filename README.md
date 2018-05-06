@@ -1,20 +1,28 @@
 # UNI-SS2018
 Tests and Documents for SS2018 at TU-Berlin
+_______________________
+#1 General:
+  - Bitte bei Fehler oder Ungenauigkeiten die zu Punktabzug führen könnten bescheid sagen.
+  
 
 ______________________
-#1 Structure: 
+#2 Structure: 
 
 UNI-SS2018/
   - Algodat/
     - doc
     - blatt00/
-      - test_mats_0.1
-      - test_mats_0.2
-      - test_mats_1.0
-      - test_fabian_0.2
+      - mats/
+      - peter/
+      - pahn/
+      - pahnfloete/
+        - file1
+        - file2
+        - test14
     - blatt01/
-      - test_mats_0.2
-      - test_per_3.0
+      - per/
+      - jonas/
+        - test23
   - DigiSys/
     - doc
   - ElNetz/ 
@@ -24,5 +32,5 @@ UNI-SS2018/
 
   
 _______________________
- #2 General Advice:  
-Das ist öffentlich. Bitte keine privaten Fotos hochladen.
+ #3 Closing Remarks:  
+  - Das ist öffentlich. Bitte keine privaten Fotos hochladen.
