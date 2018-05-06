@@ -12,16 +12,16 @@ UNI-SS2018/
   - Algodat/
     - doc
     - blatt00/
-      - mats
-      - peter
-      - pahn
-      - pahnfloete
+      - mats/
+      - peter/
+      - pahn/
+      - pahnfloete/
         - file1
         - file2
         - test14
     - blatt01/
-      - per
-      - jonas
+      - per/
+      - jonas/
         - test23
   - DigiSys/
     - doc
